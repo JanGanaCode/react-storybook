@@ -8,7 +8,7 @@ Live preview [here ➟](https://janganacode.github.io/react-storybook/)
   
   cd react-storybook
   
-  npm run storybook
+  npm run start
 ```
 <br>
 
