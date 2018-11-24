@@ -1,7 +1,6 @@
 # Storybook | ReactJS Components
-
-Live preview [here.](https://janganacode.github.io/react-storybook/)
-
+Live preview [here ➟](https://janganacode.github.io/react-storybook/)
+<br><br>
 ```
   git clone https://github.com/JanGanaCode/react-storybook.git
 
@@ -11,5 +10,6 @@ Live preview [here.](https://janganacode.github.io/react-storybook/)
   
   npm run storybook
 ```
+<br>
 
-localhost:4000
+#### Visit: ```localhost:4000```
