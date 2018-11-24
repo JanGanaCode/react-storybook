@@ -9,13 +9,11 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
+    "start": "start-storybook -p 4000 -c .storybook",
+    "build": "build-storybook -c .storybook -o .out",
     "deploy-storybook": "storybook-to-ghpages",
-    "start": "react-scripts start",
-    "storybook-start": "start-storybook -p 4000 -c .storybook",
-    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "build-storybook -c .storybook -o .out"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
