@@ -11,5 +11,3 @@ Live preview [here ➟](https://janganacode.github.io/react-storybook/)
   npm run start
 ```
 <br>
-
-#### Visit: ```localhost:4000```
