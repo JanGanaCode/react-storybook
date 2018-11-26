@@ -4,9 +4,12 @@
   "private": true,
   "homepage": "https://janganacode.github.io/react-storybook",
   "dependencies": {
+    "@storybook/addon-actions": "^4.0.9",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "storybook-addon-jsx": "^6.0.0",
+    "styled-components": "^4.1.1"
   },
   "scripts": {
     "start": "start-storybook -p 4000 -c .storybook",
@@ -26,6 +29,7 @@
   ],
   "description": "Storybook for ReactJS components",
   "devDependencies": {
+    "@storybook/addon-console": "^1.1.0",
     "@storybook/react": "^4.0.8",
     "@storybook/storybook-deployer": "^2.3.0"
   }
