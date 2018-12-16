@@ -1,0 +1,10 @@
+## run local version
+npm run start
+
+
+## build
+npm run build
+
+
+## deploy to GitHubPages
+npm run deploy-storybook -- --existing-output-dir=.out
